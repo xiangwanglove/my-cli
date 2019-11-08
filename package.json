@@ -2,7 +2,7 @@
   "name": "xiangwang-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "xiangkuang-cli.js",
+  "main": "xiangwang-cli.js",
   "private":false,
   "keywords": [],
   "scripts": {
